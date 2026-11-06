@@ -1,0 +1,16 @@
+[
+  {
+    "serialNumber": "IOT-TMP-0001",
+    "name": "Temperature Sensor",
+    "location": "Factory Room A",
+    "minimumLimit": 1,
+    "maximumLimit": 100
+  },
+  {
+    "serialNumber": "IOT-HUM-0002",
+    "name": "Humidity Sensor",
+    "location": "Factory Room B",
+    "minimumLimit": 1,
+    "maximumLimit": 90
+  }
+]
